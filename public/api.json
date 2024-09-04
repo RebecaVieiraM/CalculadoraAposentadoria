@@ -1,0 +1,24 @@
+{
+    "regras_aposentadoria": [
+      {
+        "ocupacao": "Empregado(a) Urbano(a)",
+        "genero": "Masculino",
+        "idade_minima": 65
+      },
+      {
+        "ocupacao": "Empregado(a) Urbano(a)",
+        "genero": "Feminino",
+        "idade_minima": 62
+      },
+      {
+        "ocupacao": "Trabalhador(a) Rural",
+        "genero": "Masculino",
+        "idade_minima": 60
+      },
+      {
+        "ocupacao": "Trabalhador(a) Rural",
+        "genero": "Feminino",
+        "idade_minima": 55
+      }
+    ]
+  }  
